@@ -1,0 +1,22 @@
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Local caches
+.cache/
+.hf_cache/
+.ipynb_checkpoints/
+
+# Generated exports (keep source report, not the exports)
+REPORT.html
+REPORT.pdf
+report_template.html

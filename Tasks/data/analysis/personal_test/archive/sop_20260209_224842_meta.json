@@ -1,0 +1,16 @@
+{
+  "ts": "20260209_224842",
+  "kind": "personal_test_sop",
+  "files": {
+    "csv": "sop_20260209_224842.csv",
+    "jsonl": "sop_20260209_224842.jsonl"
+  },
+  "model": {
+    "bundle_path": "/Users/abhinavchatrathi/Documents/Sem4/PreCog_Task/Task0/data/analysis/tierC_model.joblib",
+    "classes": [
+      "0",
+      "1",
+      "2"
+    ]
+  }
+}

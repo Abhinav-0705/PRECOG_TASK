@@ -1,0 +1,163 @@
+{
+  "n_topics": 7,
+  "topics": [
+    [
+      "tom",
+      "becky",
+      "tick",
+      "don",
+      "anybody",
+      "oh",
+      "ain",
+      "school",
+      "ll",
+      "love"
+    ],
+    [
+      "potter",
+      "tom",
+      "joe",
+      "said",
+      "injun",
+      "muff",
+      "doctor",
+      "knife",
+      "sid",
+      "ll"
+    ],
+    [
+      "tom",
+      "huck",
+      "said",
+      "joe",
+      "pirates",
+      "island",
+      "boys",
+      "raft",
+      "pirate",
+      "river"
+    ],
+    [
+      "church",
+      "prayer",
+      "sermon",
+      "minister",
+      "tom",
+      "went",
+      "began",
+      "argument",
+      "read",
+      "little"
+    ],
+    [
+      "tom",
+      "aunt",
+      "boy",
+      "sid",
+      "polly",
+      "time",
+      "flower",
+      "fence",
+      "long",
+      "said"
+    ],
+    [
+      "tom",
+      "ben",
+      "jim",
+      "boy",
+      "wouldn",
+      "ll",
+      "work",
+      "brush",
+      "said",
+      "don"
+    ],
+    [
+      "tom",
+      "away",
+      "bug",
+      "black",
+      "wood",
+      "fall",
+      "outlaws",
+      "said",
+      "went",
+      "forest"
+    ]
+  ],
+  "metadata": [
+    {
+      "author": "jane_austen",
+      "filename": "emma_clean.txt"
+    },
+    {
+      "author": "jane_austen",
+      "filename": "pride_prejudice_clean.txt"
+    },
+    {
+      "author": "jane_austen",
+      "filename": "sense_sensibility_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter10_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter11_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter12_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter13_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter14_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter15_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter1_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter2_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter3_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter4_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter5_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter6_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter7_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter8_clean.txt"
+    },
+    {
+      "author": "mark_twain",
+      "filename": "chapter9_clean.txt"
+    }
+  ]
+}

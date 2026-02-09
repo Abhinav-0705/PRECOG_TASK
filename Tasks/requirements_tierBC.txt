@@ -1,0 +1,8 @@
+# Optional / heavier requirements for Tier B (embeddings) and Tier C (LoRA)
+sentence-transformers>=2.2.2
+torch>=1.12.0
+scikit-learn>=1.0
+transformers>=4.30.0
+accelerate>=0.20.0
+peft>=0.4.0
+joblib
